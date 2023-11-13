@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "employee_review_system",
+  "builds": [{ "src": "index.js", "use": "@vercel/node" }]
+}
